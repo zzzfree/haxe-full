@@ -1,3 +1,3 @@
 FROM jeko/haxe-openfl
 
-RUN setup.sh
+RUN ./setup.sh
